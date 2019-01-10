@@ -1,0 +1,10 @@
+<editor>
+    <help>/commander/pages/@PLUGIN_NAME@/@PLUGIN_KEY@_help?s=Administration&amp;ss=Plugins#runTCSH</help>
+    <formElement>
+        <type>textarea</type>
+        <label>Command:</label>
+        <property>tcshCommand</property>
+        <documentation>Provide any tcsh commands.</documentation>
+        <required>1</required>
+    </formElement>
+</editor>
